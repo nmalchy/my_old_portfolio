@@ -4,7 +4,7 @@
   "description": "my first  portfolio",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d assets"
+    "deploy": "gh-pages -d myportfolio"
   },
   "author": "Noah Malchy",
   "license": "MIT",
