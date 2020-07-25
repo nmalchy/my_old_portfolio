@@ -1,14 +1,14 @@
 {
-  "name": "myportfolio",
-  "version": "1.0.0",
-  "description": "my first  portfolio",
+  "name": "my_portfolio",
+  "version": "1.3.0",
+  "description": "My portfolio",
   "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d C:/Users/Michael/Desktop/myportfolio"
   },
   "author": "Noah Malchy",
   "license": "MIT",
-  "homepage": "https//canadiancoder95.github.io/myportfolio",
+  "homepage": "https//canadiancoder95.github.io/my_portfolio",
   "dependencies": {
     "gh-pages": "^2.2.0"
   }
